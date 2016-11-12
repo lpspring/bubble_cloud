@@ -406,11 +406,8 @@ root.plotData = (selector, data, plot) ->
 
 texts = [
   {key:"hd", file:"HorriblyDepressing.csv", name: "HorriblyDepressing"}
-  {key:"sherlock",file:"top_sherlock.csv",name:"The Adventures of Sherlock Holmes"}
-  {key:"aesop",file:"top_aesop.csv",name:"Aesop's Fables"}
-  {key:"alice",file:"alice.csv",name:"Alice's Adventures in Wonderland"}
-  {key:"gulliver",file:"top_gulliver.csv",name:"Gulliver's Travels"}
 ]
+
 
 # ---
 # jQuery document ready.
