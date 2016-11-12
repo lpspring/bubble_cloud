@@ -406,6 +406,7 @@ root.plotData = (selector, data, plot) ->
 
 texts = [
   {key:"hd", file:"HorriblyDepressing.csv", name: "HorriblyDepressing"}
+  {key:"h", file:"Health.csv", name: "Health"}
 ]
 
 
